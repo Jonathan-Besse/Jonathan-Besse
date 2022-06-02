@@ -34,6 +34,7 @@
 1. 🕹 [Un petit jeu du dinosaure revisité](https://github.com/Jonathan-Besse/LitleGame)
 2. 🦗 [SpiderMitesWeb](https://github.com/franckdor/spmdev2022)
 3. ❌ [Logiciel de gestion de tournoi d'échec](https://github.com/pierrejean-lefort/s3-lefort-besse-bouchery-pironneau)
+4. [Pile ou Face Three Js](https://github.com/clement-gambier2/pileOuFace)
 <!--END_SECTION:activity-->
 
 </details>
