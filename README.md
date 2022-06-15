@@ -1,9 +1,6 @@
 ## Jeune étudiant en recherche d'alternance à Brest !!
 
 - 💾 Mon projet le plus récent: [SpiderMitesWeb][spmdev]!
-- 📰 En cours de formation aux technologies de l'information 
-- 🥅 2022 Goals: En apprendre plus sur le web3
-
 
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jonathan-besse-8ba8341b7#gh-light-mode-only)
